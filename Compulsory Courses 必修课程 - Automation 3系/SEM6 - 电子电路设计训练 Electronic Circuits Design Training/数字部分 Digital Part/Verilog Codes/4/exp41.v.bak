@@ -1,0 +1,30 @@
+module exp41( x, z, clk,rst, state);
+input x, clk, rst;
+output z;
+output reg [2:0] state;
+parameter IDLE = 'd0,A = 'd1, B = 'd2,C = 'd3, D = 'd4,E = 'd5,F = 'd6, G = 'd7;
+assign z = (state == E && x == 0)?1:0;
+//当x序列10010最后一个0刚到时刻，时钟沿立刻将状态变为E，此时z应该变为高
+
+always @(posedge clk)
+if(!rst)state <= IDLE;
+else 
+case(state)
+IDLE: if(x == 1) state <= A;  //第一个码位对，记为状态A
+A: if(x == 0)  state <= B;   //第二个码位对，记为状态B
+B: if(x == 0)  state <= C;   //第三个码位对，记为状态C
+   else   state <= D;    //第三个码位不对，101 没有对应片段，前功尽弃，记为状态F 
+C: if(x == 1)  state <= D;     //第四个码位对，记为状态D,这里错了吧，应该是1啊，，，，改了1
+	else state <= G;    //第四个码位不对，1000 没有对应片段，前功尽弃，记为状态G
+D: if(x == 0)  state <= E;   //第五个码位对，记为状态E
+	else    state <=A;     //第五个码位不对，11 1可以作为起始，转入状态A
+//码位对状态，记为状态A
+E: if(x == 0)  state <= C; //100 相当于状态C
+/*连着前面已经输入的x序列，考虑10010，又输入一个0码位，可以认为第三个码位已对，记为状态C*/
+	else   state <=A;   //01 1可以作为起始，状态A
+F: if(x == 1) state <=A;  //11   1可以作为起始，状态A
+	else    state <=B;   // 10 状态B
+G: if(x == 1) state <=A;   //  01 1可以作为起始，状态A
+default: state <= IDLE;    //默认状态为初始状态
+endcase
+endmodule

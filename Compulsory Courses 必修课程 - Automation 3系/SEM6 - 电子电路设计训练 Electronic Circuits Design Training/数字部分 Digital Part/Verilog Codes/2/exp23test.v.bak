@@ -1,0 +1,13 @@
+`timescale 1ns/1ns
+
+module testexp2_3;
+	reg clk;
+	wire out;
+
+initial
+begin
+clk<=0;
+end
+always #100 clk=~clk;
+exp2_3 e1(clk,out);
+endmodule

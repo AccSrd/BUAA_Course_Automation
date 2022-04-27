@@ -1,0 +1,16 @@
+/*楼下到楼上依次有3个感应灯：灯1、灯2、灯3。当行人上下楼梯时，
+各个灯感应到后自动点亮，若在8s内感应信号消失，则点亮8s，
+若感应信号存在时间超过8s，则感应信号消失4s后灯自动关闭。*/
+//时间单位1ms
+module exp42(clk,sensor,light);
+
+input  [2:0] sensor;
+output reg  [2:0] light;
+reg [7:0] count1=0,count2=0,count3=0,count11,count21,count31;//记录传感器时间
+reg flag[2:0];//记录传感器状态
+always @(sensor[0]) flag[0]<=sensor[0];
+always @(clk)//时钟0.1s变一次
+begin
+if(flag[0]) count1<=count1+1;
+
+end

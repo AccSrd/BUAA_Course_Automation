@@ -1,0 +1,6 @@
+`timescale 1ns/1ns
+module exp341test;
+  wire [7:0] ra, rb, rc, rd;
+  reg [7:0] a;
+
+endmodule
