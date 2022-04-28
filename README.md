@@ -3,7 +3,7 @@
 Codes created when I was in Beihang University.
 Including course project and final project.
 
-| 课程名称 | 英文名称 | 开课学期 | 课程分类 | 课程编号 | 学分 | 课时 |
+| 课程名称 | 英文名称 | 学期 | 课程分类 | 课程编号 | 学分 | 课时 |
 | ------ | -------- | -------- | ------ | ------- | --- | --- |
 | 工科数学分析(1) | Mathematical Analysis for Engineering (I) | SEM 1 | 必修 - 基础课程 - 数学与自然科学类 | A09A101A | 5 | 96 |
 | C语言程序设计 | Programming Language C | SEM 1 | 必修 - 基础课程 - 工程基础类 | B1B171110 | 3 | 48 |
