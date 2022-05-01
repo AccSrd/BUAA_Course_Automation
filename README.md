@@ -6,7 +6,7 @@ Including course project and final project.
 | 课程名称 | 英文名称 | 学期 | 课程分类 | 课程编号 | 学分 | 课时 |
 | ------ | -------- | -------- | ------ | ------- | --- | --- |
 | 工科数学分析(1) | Mathematical Analysis for Engineering (I) | SEM 1 | 必修 - 基础课程 - 数学与自然科学类 | A09A101A | 5 | 96 |
-| C语言程序设计[1] | Programming Language C | SEM 1 | 必修 - 基础课程 - 工程基础类 | B1B171110 | 3 | 48 |
+| [C语言程序设计][1] | Programming Language C | SEM 1 | 必修 - 基础课程 - 工程基础类 | B1B171110 | 3 | 48 |
 | 机械设计基础B(1) | Fundamental of Mechanical Design B (I) | SEM 1 | 必修 - 基础课程 - 工程基础类 | B3I071050 | 3 | 58 |
 | 工程认识 | Engineering Experience and Cognition | SEM 1 | 必修 - 基础课程 - 工程基础类 | B1B321010 | 0.5 | 16 |
 | 英语听说写 | College English: Listening, Speaking and Writing | SEM 1 | 必修 - 基础课程 - 语言类 | B1C12101B | 2 | 32 |
