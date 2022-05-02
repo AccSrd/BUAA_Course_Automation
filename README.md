@@ -31,14 +31,25 @@ Including course project and final project.
 | [博雅课程(文化素质拓展)(2)][10] | Liberal Arts (II) | 2 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
 | [Product Design for Innovation][20] | Product Design for Innovation | 2.5 | 必修 - 通识课程 - 一般通识类 | 暑期学校全英文课程 | 2 | 32 |
 | [复变函数与积分变换][15] | Functions of Complex Variable and Integral Transforms | 3 | 必修 - 基础课程 - 数学与自然科学类 | B1A092060 | 2.5 | 40 |
-| [工科大学物理(2)][16] | University Physics for Engineering (II) | 3 | 必修 - 基础课程 - 数学与自然科学类 | B1A19201B | 4 | 64 |
-| [基础物理实验B(1)][17] | Fundamental Physics Experiments B(I) | 3 | 必修 - 基础课程 - 数学与自然科学类 | B1A19201B | 1.5 | 28 |
+| [工科大学物理(2)(全英文)][16] | University Physics for Engineering (II)-English | 3 | 必修 - 基础课程 - 数学与自然科学类 | B1A19201B | 4 | 64 |
+| [基础物理实验B(1)][17] | Fundamental Physics Experiments B(I) | 3 | 必修 - 基础课程 - 数学与自然科学类 | B1A19203B | 1.5 | 28 |
 | [理论力学][18] | Theoretical Mechanics | 3 | 必修 - 基础课程 - 工程基础类 | / | 4 | 64 |
 | [电路][19] | Eletrical Circuits | 3 | 必修 - 基础课程 - 工程基础类 | / | 4 | 64 |
-| [诗歌与中国文化][21] | Poetry and Chinese Culture | 3 | 必修 - 通识类课程 - 核心通识类 | / | 4 | 64 |
+| [诗歌与中国文化][21] | Poetry and Chinese Culture | 3 | 必修 - 通识类课程 - 核心通识类 | / | 2 | 32 |
 | [思想政治理论课——概论][22] | History of Modern Thinking | 3 | 必修 - 通识类课程 - 思政类 | B2D282010 | 2 | 32 |
 | [体育——羽毛球][9] | Physical Education | 3 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
 | [博雅课程(文化素质拓展)(3)][10] | Liberal Arts (III) | 3 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
+| [概率统计A][23] | Probability and Statistics A | 4 | 必修 - 基础课程 - 数学与自然科学类 | B1A09204A | 3 | 48 |
+| [基础物理实验B(2)][24] | Fundamental Physics Experiments B(II) | 4 | 必修 - 基础课程 - 数学与自然科学类 | B1A19204B | 1.5 | 24 |
+| [模拟电子技术基础][25] | Fundamentals of Analog Electronics | 4 | 必修 - 基础课程 - 工程基础类 | / | 4 | 64 |
+| [数字电子技术基础][26] | Fundamentals of Digital Electronics | 4 | 必修 - 基础课程 - 工程基础类 | / | 3 | 48 |
+| [电气技术实践(1)(全英文)][27] | Eletrical Technology Practice (I)-English | 4 | 必修 - 基础课程 - 工程基础类 | / | 2 | 36 |
+| [材料力学(B)][28] | Mechanics of Materials B | 4 | 必修 - 基础课程 - 工程基础类 | / | 2.5 | 40 |
+| [思想政治理论课——原理][29] | Marxism Basic Principle | 4 | 必修 - 通识类课程 - 思政类 | B2D282020 | 2 | 32 |
+| 合唱与指挥 | Chorusing and Conducting | 4 | 必修 - 通识课程 - 一般通识类 | / | 1 | 16 |
+| 中外现代设计鉴赏 | Appreciation of International Design | 4 | 必修 - 通识课程 - 一般通识类 | / | 1 | 16 |
+| [体育——羽毛球][9] | Physical Education | 4 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
+| [博雅课程(文化素质拓展)(4)][10] | Liberal Arts (IV) | 4 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
 
 [1]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM1%20-%20%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90(1)%20Mathematical%20Analysis%20for%20Engineering%20(I)
 
