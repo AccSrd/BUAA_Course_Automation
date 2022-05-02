@@ -16,7 +16,7 @@ Including course project and final project.
 | [电子信息工程导论][7] | Introduction to Electronic Information Engineering | 1 | / | B1B021110 | 1 | 16 |
 | 控制科学与工程学科综合课 | Control Science and Engineering Interdisciplinary Lesson | 1 | 必修 - 专业课程 - 一般专业类 | B3J031000 | 1 | 20 |
 | [隐身漫谈][8] | Stealth Technology Introduction | 1 | 必修 - 通识类课程 - 核心通识类 | 新生研修课 | 1 | 16 |
-| [体育——排球][9] | Physical Education | 1 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
+| [体育][9] | Physical Education | 1 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
 | 军事训练 | Military Training | 1 | 必修 - 通识类课程 - 军理类 | B2D511020 | 0 | 112 |
 | [博雅课程(文化素质拓展)(1)][10] | Liberal Arts (I) | 1 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
 | [工科数学分析(2)][11] | Mathematical Analysis for Engineering (II) | 2 | 必修 - 基础课程 - 数学与自然科学类 | A09A102A | 5 | 96 |
@@ -26,7 +26,7 @@ Including course project and final project.
 | 英语读说写 | College English: Reading, Speaking and Writing | 2 | 必修 - 基础课程 - 语言类 | B1C12103B | 2 | 32 |
 | 批判阅读与写作 | English Critical Reading and Writing | 2 | 必修 - 基础课程 - 语言类 | B1C12102A | 2 | 32 |
 | [思想政治理论课——纲要][14] | Outline of Modern China History | 2 | 必修 - 通识类课程 - 思政类 | B2D281020 | 2 | 32 |
-| [体育——跆拳道][9] | Physical Education | 2 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
+| [体育][9] | Physical Education | 2 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
 | 军事理论 | Military Theory | 2 | 必修 - 通识类课程 - 军理类 | B2D511010 | 2 | 32 |
 | [博雅课程(文化素质拓展)(2)][10] | Liberal Arts (II) | 2 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
 | [Product Design for Innovation][20] | Product Design for Innovation | 2.5 | 必修 - 通识课程 - 一般通识类 | 暑期学校全英文课程 | 2 | 32 |
@@ -48,23 +48,45 @@ Including course project and final project.
 | [思想政治理论课——原理][29] | Marxism Basic Principle | 4 | 必修 - 通识类课程 - 思政类 | B2D282020 | 2 | 32 |
 | 合唱与指挥 | Chorusing and Conducting | 4 | 必修 - 通识课程 - 一般通识类 | / | 1 | 16 |
 | 中外现代设计鉴赏 | Appreciation of International Design | 4 | 必修 - 通识课程 - 一般通识类 | / | 1 | 16 |
-| [体育——羽毛球][9] | Physical Education | 4 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
+| [体育][9] | Physical Education | 4 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
 | [博雅课程(文化素质拓展)(4)][10] | Liberal Arts (IV) | 4 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
 | [电气技术实践(2)(全英文)][30] | Eletrical Technology Practice (II)-English | 5 | 必修 - 基础课程 - 工程基础类 | / | 2 | 36 |
 | [机械设计基础B(2)][31] | Fundamental of Mechanical Design B (II) | 5 | 必修 - 基础课程 - 工程基础类 | / | 3 | 48 |
-| [微机原理及接口技术][32] | | 5 | 必修 - 基础课程 - 工程基础类 | B3I071060 | 3 | 54 |
-| 电子工程技术训练 |  | 5 | 必修 - 基础课程 - 工程基础类 | B1B322040 | 2 | 80 |
-| [自动控制原理A(1)(全英文)][33] |  | 5 | 必修 - 专业课程 - 核心专业类 | B3I03311A | 3 | 48 |
-| [自动控制原理实验A(1)][34] |  | 5 | 必修 - 专业课程 - 核心专业类  | B3I03313A | 1 | 16 |
-| [自动控制元件][35] |  | 5 | 必修 - 专业课程 - 核心专业类  | B3I033220 | 2.5 | 40 |
-| [电力电子技术B][36] |  | 5 | 必修 - 专业课程 - 核心专业类  | B3I033210 | 2 | 32 |
-| [自动控制元件与电力电子技术实验][37] |  | 5 | 必修 - 专业课程 - 核心专业类  | B3I033230 | 1 | 16 |
-| [微机原理及接口技术实验][38] |  | 5 | 必修 - 专业课程 - 核心专业类  | B3I033240 | 1 | 16 |
-| 自动化专业导论 |  | 5 | 必修 - 专业课程 - 一般专业类  | B3J033010 | 1 | 16 |
-| [虚拟现实技术][39] |  | 5 | 必修 - 专业课程 - 一般专业类  | B3J033550 | 1.5 | 24 |
-| [应用离散数学][40] |  | 5 | 必修 - 专业课程 - 一般专业类  | B3J033570 | 2 | 32 |
-| [体育——羽毛球][9] | Physical Education | 5 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
+| [微机原理及接口技术][32] | Principles of Microprocessor and Interface Technology | 5 | 必修 - 基础课程 - 工程基础类 | B3I071060 | 3 | 54 |
+| 电子工程技术训练 | Eletrical Technology Practice | 5 | 必修 - 基础课程 - 工程基础类 | B1B322040 | 2 | 80 |
+| [自动控制原理A(1)(全英文)][33] | Principle of Automatic Control A (I)-English | 5 | 必修 - 专业课程 - 核心专业类 | B3I03311A | 3 | 48 |
+| [自动控制原理实验A(1)][34] | Principle of Automatic Control Experiment A (I) | 5 | 必修 - 专业课程 - 核心专业类  | B3I03313A | 1 | 16 |
+| [自动控制元件][35] | Automatic Control Components | 5 | 必修 - 专业课程 - 核心专业类  | B3I033220 | 2.5 | 40 |
+| [电力电子技术B][36] | Power Electronic Technology B | 5 | 必修 - 专业课程 - 核心专业类  | B3I033210 | 2 | 32 |
+| [自动控制元件与电力电子技术实验][37] | Automatic Control Components and Power Electronic Technology Experiment | 5 | 必修 - 专业课程 - 核心专业类  | B3I033230 | 1 | 16 |
+| [微机原理及接口技术实验][38] | Experimental Course of Computer Principle and Its Interface Technology | 5 | 必修 - 专业课程 - 核心专业类  | B3I033240 | 1 | 16 |
+| 自动化专业导论 | Introduction of Automation Science and Electrical Engineering Major | 5 | 必修 - 专业课程 - 一般专业类  | B3J033010 | 1 | 16 |
+| [虚拟现实技术][39] | Virtual Reality Technology | 5 | 必修 - 专业课程 - 一般专业类  | B3J033550 | 1.5 | 24 |
+| [应用离散数学][40] | Applied Discrete Mathematics | 5 | 必修 - 专业课程 - 一般专业类  | B3J033570 | 2 | 32 |
+| [体育][9] | Physical Education | 5 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
 | [博雅课程(文化素质拓展)(5)][10] | Liberal Arts (V) | 5 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
+| 生产实习 | Practice in Production | 6 | 必修 - 专业课程 - 核心专业类 | B3I033000 | 3 | 120 |
+| 电子电路设计训练 | Electronic Circuits Design Training | 6 | 必修 - 专业课程 - 核心专业类 | / | 2 | 80 |
+| 自动控制原理A(2) | Principle of Automatic Control A (II) | 6 | 必修 - 专业课程 - 核心专业类 | B3I03312A | 2 | 32 |
+| 自动控制原理实验A(2) | Principle of Automatic Control Experiment A (II) | 6 | 必修 - 专业课程 - 核心专业类  | B3I03314A | 0.5 | 8 |
+| [数字信号处理][41] | Digital Signal Processing | 6 | 必修 - 专业课程 - 核心专业类 | B3I033150 | 2.5 | 40 |
+| [数字信号处理实验][42] | Digital Signal Processing Experiments | 6 | 必修 - 专业课程 - 核心专业类 | B3I033160 | 1 | 16 |
+| [计算机控制系统][43] | Computer Control System | 6 | 必修 - 专业课程 - 核心专业类 | B3I033170 | 2 | 32 |
+| [计算机测试与控制系统实验][44] | Computer Test and Control System Experiments | 6 | 必修 - 专业课程 - 核心专业类 | B3I033190 | 1 | 16 |
+| [非线性控制][45] | Nonlinear Control | 6 | 必修 - 专业课程 - 一般专业类 | B3J033110 | 2.5 | 40 |
+| [模式识别与智能系统技术][46] | Technology of Pattern Recognition and Intelligent Systems | 6 | 必修 - 专业课程 - 一般专业类 | B3J033120 | 2.5 | 40 |
+| [体育][9] | Physical Education | 6 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
+| [博雅课程(文化素质拓展)(6)][10] | Liberal Arts (VI) | 6 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
+| [课程设计与综合实验1][47] | Curriculum Design and Comprehensive Experiment I | 7 | 必修 - 专业课程 - 核心专业类 | B3I034110 | 4 | 160 |
+| [模式识别与运动控制实验][48] | Pattern Recognition and Motion Control System Experiment | 7 | 必修 - 专业课程 - 一般专业类 | B3J033120 | 1.5 | 24 |
+| [经济管理][49] | Economics and Management | 7 | 必修 - 通识类课程 - 核心通识类 | B2F080110 | 2 | 32 |
+| [航空航天法][50] | Aeronautics and Astronautics Law | 7 | 必修 - 通识类课程 - 核心通识类 | / | 2 | 32 |
+| [精算数学][51] | Actuarial Mathematics | 7 | 必修 - 专业课程 - 核心专业类 | 跨专业选修 | 2 | 32 |
+| [金融数学][52] | Financial Mathematics | 7 | 必修 - 专业课程 - 核心专业类 | 跨专业选修 | 2 | 32 |
+| [体育][9] | Physical Education | 7 | 必修 - 通识类课程 - 体育类 | / | 1 | 32 |
+| [博雅课程(文化素质拓展)(7)][10] | Liberal Arts (VII) | 7 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
+| [毕业设计][53] | Graduation Design (Thesis) | 8 | 必修 - 专业课程 - 核心专业类 | / | 8 | 640 |
+| [博雅课程(文化素质拓展)(8)][10] | Liberal Arts (VIII) | 8 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
 
 [1]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM1%20-%20%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90(1)%20Mathematical%20Analysis%20for%20Engineering%20(I)
 
