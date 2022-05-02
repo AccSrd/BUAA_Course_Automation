@@ -34,4 +34,8 @@ Including course project and final project.
 
 [7]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM1%20-%20%E7%94%B5%E5%AD%90%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AF%BC%E8%AE%BA%20Introduction%20to%20Electronic%20Information%20Engineering
 
+[8]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Selected%20Courses%20%E9%80%89%E4%BF%AE%E8%AF%BE%E7%A8%8B/SEM1%20-%20%E9%9A%90%E8%BA%AB%E6%BC%AB%E8%B0%88%20Stealth%20Technology%20Introduction
+
+[9]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEMX%20-%20%E4%BD%93%E8%82%B2%20Physical%20Education
+
 [10]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEMX%20-%20%E5%8D%9A%E9%9B%85%E8%AF%BE%E7%A8%8B%20Liberal%20Arts
