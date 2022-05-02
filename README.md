@@ -14,9 +14,11 @@ Including course project and final project.
 | [航空航天概论A][5] | Introduction to Aeronautics and Astronautics A | SEM 1 | 必修 - 通识类课程 - 核心通识类 | B2F050110 | 2 | 32 |
 | [思想政治理论课——基础][6] | Moral Principles and Legal Basis | SEM 1 | 必修 - 通识类课程 - 思政类 | B2D281010 | 2 | 32 |
 | [电子信息工程导论][7] | Introduction to Electronic Information Engineering | SEM 1 | / | B1B021110 | 1 | 16 |
-| [体育——排球][8] | Physical Education | SEM 1 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
+| 控制科学与工程学科综合课 | Control Science and Engineering Interdisciplinary Lesson | SEM 1 | 必修 - 专业课程 - 一般专业类 | B3J031000 | 1 | 20 |
+| [隐身漫谈][8] | Stealth Technology Introduction | SEM 1 | 必修 - 通识类课程 - 核心通识类 | 新生研修课 | 1 | 16 |
+| [体育——排球][9] | Physical Education | SEM 1 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
 | 军事训练 | Military Training | SEM 1 | 必修 - 通识类课程 - 军理类 | B2D511020 | 0 | 112 |
-| [博雅课程(文化素质拓展)(1)][9] | Liberal Arts (I) | SEM 1 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
+| [博雅课程(文化素质拓展)(1)][10] | Liberal Arts (I) | SEM 1 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
 
 [1]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM1%20-%20%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90(1)%20Mathematical%20Analysis%20for%20Engineering%20(I)
 
@@ -31,3 +33,5 @@ Including course project and final project.
 [6]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM1%20-%20%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E8%AF%BE%20%E2%80%94%20%E5%9F%BA%E7%A1%80%20Moral%20Principles%20and%20Legal%20Basis
 
 [7]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM1%20-%20%E7%94%B5%E5%AD%90%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AF%BC%E8%AE%BA%20Introduction%20to%20Electronic%20Information%20Engineering
+
+[10]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEMX%20-%20%E5%8D%9A%E9%9B%85%E8%AF%BE%E7%A8%8B%20Liberal%20Arts
