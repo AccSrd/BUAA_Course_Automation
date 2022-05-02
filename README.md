@@ -19,6 +19,16 @@ Including course project and final project.
 | [体育——排球][9] | Physical Education | SEM 1 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
 | 军事训练 | Military Training | SEM 1 | 必修 - 通识类课程 - 军理类 | B2D511020 | 0 | 112 |
 | [博雅课程(文化素质拓展)(1)][10] | Liberal Arts (I) | SEM 1 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
+| [工科数学分析(2)][11] | Mathematical Analysis for Engineering (II) | SEM 2 | 必修 - 基础课程 - 数学与自然科学类 | A09A102A | 5 | 96 |
+| [工科高等代数][12] | Advanced Algebra for Engineering | SEM 2 | 必修 - 基础课程 - 数学与自然科学类 | A09A103A | 5 | 96 |
+| [基础物理学(1)][13] | Fundamental Physics (I) | SEM 2 | 必修 - 基础课程 - 数学与自然科学类 | A19A101A | 4.5 | 80 |
+| 机械工程技术训练B | Mechanical Technology Practice B | SEM 2 | 必修 - 基础课程 - 工程基础类 | B1B322020 | 2 | 80 |
+| 英语读说写 | College English: Reading, Speaking and Writing | SEM 2 | 必修 - 基础课程 - 语言类 | B1C12103B | 2 | 32 |
+| 批判阅读与写作 | English Critical Reading and Writing | SEM 2 | 必修 - 基础课程 - 语言类 | B1C12102A | 2 | 32 |
+| [思想政治理论课——纲要][14] | Outline of Modern China History | SEM 2 | 必修 - 通识类课程 - 思政类 | B2D281020 | 2 | 32 |
+| [体育——跆拳道][9] | Physical Education | SEM 2 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
+| 军事理论 | Military Theory | SEM 2 | 必修 - 通识类课程 - 军理类 | B2D511010 | 2 | 32 |
+| [博雅课程(文化素质拓展)(2)][10] | Liberal Arts (II) | SEM 2 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
 
 [1]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM1%20-%20%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90(1)%20Mathematical%20Analysis%20for%20Engineering%20(I)
 
