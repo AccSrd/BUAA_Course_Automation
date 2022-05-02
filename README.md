@@ -3,11 +3,11 @@
 Codes created when I was in Beihang University.
 Including course project and final project.
 
-| 课程名称 | 英文名称 | 学期 | 课程分类 | 课程编号 | 学分 | 课时 |
+| 课程名称 | Course Title | 学期 | 课程分类 | 课程编号 | 学分 | 课时 |
 | ------ | -------- | -------- | ------ | ------- | --- | --- |
 | [工科数学分析(1)][1] | Mathematical Analysis for Engineering (I) | 1 | 必修 - 基础课程 - 数学与自然科学类 | A09A101A | 5 | 96 |
 | [C语言程序设计][2] | Programming Language C | 1 | 必修 - 基础课程 - 工程基础类 | B1B171110 | 3 | 48 |
-| [机械设计基础B(1)][3] | Fundamental of Mechanical Design B (I) | 1 | 必修 - 基础课程 - 工程基础类 | B3I071050 | 3 | 48 |
+| [机械设计基础B(1)][3] | Fundamental of Mechanical Design B (I) | 1 | 必修 - 基础课程 - 工程基础类 | B3I071050 | 3 | 58 |
 | 工程认识 | Engineering Experience and Cognition | 1 | 必修 - 基础课程 - 工程基础类 | B1B321010 | 0.5 | 16 |
 | 英语听说写 | College English: Listening, Speaking and Writing | 1 | 必修 - 基础课程 - 语言类 | B1C12101B | 2 | 32 |
 | [学业英语阅读与写作][4] | English Reading and Writing | 1 | 必修 - 基础课程 - 语言类 | B1C12102B | 2 | 32 |
@@ -50,6 +50,21 @@ Including course project and final project.
 | 中外现代设计鉴赏 | Appreciation of International Design | 4 | 必修 - 通识课程 - 一般通识类 | / | 1 | 16 |
 | [体育——羽毛球][9] | Physical Education | 4 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
 | [博雅课程(文化素质拓展)(4)][10] | Liberal Arts (IV) | 4 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
+| [电气技术实践(2)(全英文)][30] | Eletrical Technology Practice (II)-English | 5 | 必修 - 基础课程 - 工程基础类 | / | 2 | 36 |
+| [机械设计基础B(2)][31] | Fundamental of Mechanical Design B (II) | 5 | 必修 - 基础课程 - 工程基础类 | / | 3 | 48 |
+| [微机原理及接口技术][32] | | 5 | 必修 - 基础课程 - 工程基础类 | B3I071060 | 3 | 54 |
+| 电子工程技术训练 |  | 5 | 必修 - 基础课程 - 工程基础类 | B1B322040 | 2 | 80 |
+| [自动控制原理A(1)(全英文)][33] |  | 5 | 必修 - 专业课程 - 核心专业类 | B3I03311A | 3 | 48 |
+| [自动控制原理实验A(1)][34] |  | 5 | 必修 - 专业课程 - 核心专业类  | B3I03313A | 1 | 16 |
+| [自动控制元件][35] |  | 5 | 必修 - 专业课程 - 核心专业类  | B3I033220 | 2.5 | 40 |
+| [电力电子技术B][36] |  | 5 | 必修 - 专业课程 - 核心专业类  | B3I033210 | 2 | 32 |
+| [自动控制元件与电力电子技术实验][37] |  | 5 | 必修 - 专业课程 - 核心专业类  | B3I033230 | 1 | 16 |
+| [微机原理及接口技术实验][38] |  | 5 | 必修 - 专业课程 - 核心专业类  | B3I033240 | 1 | 16 |
+| 自动化专业导论 |  | 5 | 必修 - 专业课程 - 一般专业类  | B3J033010 | 1 | 16 |
+| [虚拟现实技术][39] |  | 5 | 必修 - 专业课程 - 一般专业类  | B3J033550 | 1.5 | 24 |
+| [应用离散数学][40] |  | 5 | 必修 - 专业课程 - 一般专业类  | B3J033570 | 2 | 32 |
+| [体育——羽毛球][9] | Physical Education | 5 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
+| [博雅课程(文化素质拓展)(5)][10] | Liberal Arts (V) | 5 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
 
 [1]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM1%20-%20%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90(1)%20Mathematical%20Analysis%20for%20Engineering%20(I)
 
