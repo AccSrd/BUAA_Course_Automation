@@ -29,3 +29,5 @@ Including course project and final project.
 [5]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM1%20-%20%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E6%A6%82%E8%AE%BAA%20Introduction%20to%20Aeronautics%20and%20Astronautics%20A
 
 [6]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM1%20-%20%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E8%AF%BE%20%E2%80%94%20%E5%9F%BA%E7%A1%80%20Moral%20Principles%20and%20Legal%20Basis
+
+[7]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM1%20-%20%E7%94%B5%E5%AD%90%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AF%BC%E8%AE%BA%20Introduction%20to%20Electronic%20Information%20Engineering
