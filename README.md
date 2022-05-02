@@ -5,30 +5,40 @@ Including course project and final project.
 
 | 课程名称 | 英文名称 | 学期 | 课程分类 | 课程编号 | 学分 | 课时 |
 | ------ | -------- | -------- | ------ | ------- | --- | --- |
-| [工科数学分析(1)][1] | Mathematical Analysis for Engineering (I) | SEM 1 | 必修 - 基础课程 - 数学与自然科学类 | A09A101A | 5 | 96 |
-| [C语言程序设计][2] | Programming Language C | SEM 1 | 必修 - 基础课程 - 工程基础类 | B1B171110 | 3 | 48 |
-| [机械设计基础B(1)][3] | Fundamental of Mechanical Design B (I) | SEM 1 | 必修 - 基础课程 - 工程基础类 | B3I071050 | 3 | 48 |
-| 工程认识 | Engineering Experience and Cognition | SEM 1 | 必修 - 基础课程 - 工程基础类 | B1B321010 | 0.5 | 16 |
-| 英语听说写 | College English: Listening, Speaking and Writing | SEM 1 | 必修 - 基础课程 - 语言类 | B1C12101B | 2 | 32 |
-| [学业英语阅读与写作][4] | English Reading and Writing | SEM 1 | 必修 - 基础课程 - 语言类 | B1C12102B | 2 | 32 |
-| [航空航天概论A][5] | Introduction to Aeronautics and Astronautics A | SEM 1 | 必修 - 通识类课程 - 核心通识类 | B2F050110 | 2 | 32 |
-| [思想政治理论课——基础][6] | Moral Principles and Legal Basis | SEM 1 | 必修 - 通识类课程 - 思政类 | B2D281010 | 2 | 32 |
-| [电子信息工程导论][7] | Introduction to Electronic Information Engineering | SEM 1 | / | B1B021110 | 1 | 16 |
-| 控制科学与工程学科综合课 | Control Science and Engineering Interdisciplinary Lesson | SEM 1 | 必修 - 专业课程 - 一般专业类 | B3J031000 | 1 | 20 |
-| [隐身漫谈][8] | Stealth Technology Introduction | SEM 1 | 必修 - 通识类课程 - 核心通识类 | 新生研修课 | 1 | 16 |
-| [体育——排球][9] | Physical Education | SEM 1 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
-| 军事训练 | Military Training | SEM 1 | 必修 - 通识类课程 - 军理类 | B2D511020 | 0 | 112 |
-| [博雅课程(文化素质拓展)(1)][10] | Liberal Arts (I) | SEM 1 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
-| [工科数学分析(2)][11] | Mathematical Analysis for Engineering (II) | SEM 2 | 必修 - 基础课程 - 数学与自然科学类 | A09A102A | 5 | 96 |
-| [工科高等代数][12] | Advanced Algebra for Engineering | SEM 2 | 必修 - 基础课程 - 数学与自然科学类 | A09A103A | 5 | 96 |
-| [基础物理学(1)][13] | Fundamental Physics (I) | SEM 2 | 必修 - 基础课程 - 数学与自然科学类 | A19A101A | 4.5 | 80 |
-| 机械工程技术训练B | Mechanical Technology Practice B | SEM 2 | 必修 - 基础课程 - 工程基础类 | B1B322020 | 2 | 80 |
-| 英语读说写 | College English: Reading, Speaking and Writing | SEM 2 | 必修 - 基础课程 - 语言类 | B1C12103B | 2 | 32 |
-| 批判阅读与写作 | English Critical Reading and Writing | SEM 2 | 必修 - 基础课程 - 语言类 | B1C12102A | 2 | 32 |
-| [思想政治理论课——纲要][14] | Outline of Modern China History | SEM 2 | 必修 - 通识类课程 - 思政类 | B2D281020 | 2 | 32 |
-| [体育——跆拳道][9] | Physical Education | SEM 2 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
-| 军事理论 | Military Theory | SEM 2 | 必修 - 通识类课程 - 军理类 | B2D511010 | 2 | 32 |
-| [博雅课程(文化素质拓展)(2)][10] | Liberal Arts (II) | SEM 2 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
+| [工科数学分析(1)][1] | Mathematical Analysis for Engineering (I) | 1 | 必修 - 基础课程 - 数学与自然科学类 | A09A101A | 5 | 96 |
+| [C语言程序设计][2] | Programming Language C | 1 | 必修 - 基础课程 - 工程基础类 | B1B171110 | 3 | 48 |
+| [机械设计基础B(1)][3] | Fundamental of Mechanical Design B (I) | 1 | 必修 - 基础课程 - 工程基础类 | B3I071050 | 3 | 48 |
+| 工程认识 | Engineering Experience and Cognition | 1 | 必修 - 基础课程 - 工程基础类 | B1B321010 | 0.5 | 16 |
+| 英语听说写 | College English: Listening, Speaking and Writing | 1 | 必修 - 基础课程 - 语言类 | B1C12101B | 2 | 32 |
+| [学业英语阅读与写作][4] | English Reading and Writing | 1 | 必修 - 基础课程 - 语言类 | B1C12102B | 2 | 32 |
+| [航空航天概论A][5] | Introduction to Aeronautics and Astronautics A | 1 | 必修 - 通识类课程 - 核心通识类 | B2F050110 | 2 | 32 |
+| [思想政治理论课——基础][6] | Moral Principles and Legal Basis | 1 | 必修 - 通识类课程 - 思政类 | B2D281010 | 2 | 32 |
+| [电子信息工程导论][7] | Introduction to Electronic Information Engineering | 1 | / | B1B021110 | 1 | 16 |
+| 控制科学与工程学科综合课 | Control Science and Engineering Interdisciplinary Lesson | 1 | 必修 - 专业课程 - 一般专业类 | B3J031000 | 1 | 20 |
+| [隐身漫谈][8] | Stealth Technology Introduction | 1 | 必修 - 通识类课程 - 核心通识类 | 新生研修课 | 1 | 16 |
+| [体育——排球][9] | Physical Education | 1 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
+| 军事训练 | Military Training | 1 | 必修 - 通识类课程 - 军理类 | B2D511020 | 0 | 112 |
+| [博雅课程(文化素质拓展)(1)][10] | Liberal Arts (I) | 1 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
+| [工科数学分析(2)][11] | Mathematical Analysis for Engineering (II) | 2 | 必修 - 基础课程 - 数学与自然科学类 | A09A102A | 5 | 96 |
+| [工科高等代数][12] | Advanced Algebra for Engineering | 2 | 必修 - 基础课程 - 数学与自然科学类 | A09A103A | 5 | 96 |
+| [基础物理学(1)][13] | Fundamental Physics (I) | 2 | 必修 - 基础课程 - 数学与自然科学类 | A19A101A | 4.5 | 80 |
+| 机械工程技术训练B | Mechanical Technology Practice B | 2 | 必修 - 基础课程 - 工程基础类 | B1B322020 | 2 | 80 |
+| 英语读说写 | College English: Reading, Speaking and Writing | 2 | 必修 - 基础课程 - 语言类 | B1C12103B | 2 | 32 |
+| 批判阅读与写作 | English Critical Reading and Writing | 2 | 必修 - 基础课程 - 语言类 | B1C12102A | 2 | 32 |
+| [思想政治理论课——纲要][14] | Outline of Modern China History | 2 | 必修 - 通识类课程 - 思政类 | B2D281020 | 2 | 32 |
+| [体育——跆拳道][9] | Physical Education | 2 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
+| 军事理论 | Military Theory | 2 | 必修 - 通识类课程 - 军理类 | B2D511010 | 2 | 32 |
+| [博雅课程(文化素质拓展)(2)][10] | Liberal Arts (II) | 2 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
+| [Product Design for Innovation][20] | Product Design for Innovation | 2.5 | 必修 - 通识课程 - 一般通识类 | 暑期学校全英文课程 | 2 | 32 |
+| [复变函数与积分变换][15] | Functions of Complex Variable and Integral Transforms | 3 | 必修 - 基础课程 - 数学与自然科学类 | B1A092060 | 2.5 | 40 |
+| [工科大学物理(2)][16] | University Physics for Engineering (II) | 3 | 必修 - 基础课程 - 数学与自然科学类 | B1A19201B | 4 | 64 |
+| [基础物理实验B(1)][17] | Fundamental Physics Experiments B(I) | 3 | 必修 - 基础课程 - 数学与自然科学类 | B1A19201B | 1.5 | 28 |
+| [理论力学][18] | Theoretical Mechanics | 3 | 必修 - 基础课程 - 工程基础类 | / | 4 | 64 |
+| [电路][19] | Eletrical Circuits | 3 | 必修 - 基础课程 - 工程基础类 | / | 4 | 64 |
+| [诗歌与中国文化][21] | Poetry and Chinese Culture | 3 | 必修 - 通识类课程 - 核心通识类 | / | 4 | 64 |
+| [思想政治理论课——概论][22] | History of Modern Thinking | 3 | 必修 - 通识类课程 - 思政类 | B2D282010 | 2 | 32 |
+| [体育——羽毛球][9] | Physical Education | 3 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
+| [博雅课程(文化素质拓展)(3)][10] | Liberal Arts (III) | 3 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
 
 [1]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM1%20-%20%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90(1)%20Mathematical%20Analysis%20for%20Engineering%20(I)
 
