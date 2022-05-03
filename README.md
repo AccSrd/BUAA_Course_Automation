@@ -66,7 +66,7 @@ Including course project and final project.
 | [体育][9] | Physical Education | 5 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
 | [博雅课程(文化素质拓展)(5)][10] | Liberal Arts (V) | 5 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
 | 生产实习 | Practice in Production | 6 | 必修 - 专业课程 - 核心专业类 | B3I033000 | 3 | 120 |
-| 电子电路设计训练 | Electronic Circuits Design Training | 6 | 必修 - 专业课程 - 核心专业类 | / | 2 | 80 |
+| [电子电路设计训练][54] | Electronic Circuits Design Training | 6 | 必修 - 专业课程 - 核心专业类 | / | 2 | 80 |
 | 自动控制原理A(2) | Principle of Automatic Control A (II) | 6 | 必修 - 专业课程 - 核心专业类 | B3I03312A | 2 | 32 |
 | 自动控制原理实验A(2) | Principle of Automatic Control Experiment A (II) | 6 | 必修 - 专业课程 - 核心专业类  | B3I03314A | 0.5 | 8 |
 | [数字信号处理][41] | Digital Signal Processing | 6 | 必修 - 专业课程 - 核心专业类 | B3I033150 | 2.5 | 40 |
@@ -107,3 +107,31 @@ Including course project and final project.
 [9]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEMX%20-%20%E4%BD%93%E8%82%B2%20Physical%20Education
 
 [10]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEMX%20-%20%E5%8D%9A%E9%9B%85%E8%AF%BE%E7%A8%8B%20Liberal%20Arts
+
+[31]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM5%20-%20%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80B(2)%20Fundamental%20of%20Mechanical%20Design%20B(II)
+
+[32]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM5%20-%20%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E5%8F%8A%E6%8E%A5%E5%8F%A3%E6%8A%80%E6%9C%AF%20Principles%20of%20Microprocessor%20and%20Interface%20Technology
+
+[33]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM5%20-%20%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%20Automatic%20Control%20Theory
+
+[35]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM5%20-%20%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%85%83%E4%BB%B6%20Automatic%20Control%20Components
+
+[41]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM6%20-%20%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%20Digital%20Signal%20Processing
+
+[42]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM6%20-%20%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C%20Digital%20Signal%20Processing%20Experiments
+
+[43]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM6%20-%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%20Computer%20Control%20System
+
+[44]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM6%20-%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%8E%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C%20Computer%20Test%20and%20Control%20System%20Experiments
+
+[45]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM6%20-%20%E9%9D%9E%E7%BA%BF%E6%80%A7%E6%8E%A7%E5%88%B6%20Nonlinear%20Control
+
+[46]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM6%20-%20%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB%E4%B8%8E%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F%E6%8A%80%E6%9C%AF%20Technology%20of%20Pattern%20Recognition%20and%20Intelligent%20Systems
+
+[54]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM6%20-%20%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1%E8%AE%AD%E7%BB%83%20Electronic%20Circuits%20Design%20Training
+
+
+
+
+
+
