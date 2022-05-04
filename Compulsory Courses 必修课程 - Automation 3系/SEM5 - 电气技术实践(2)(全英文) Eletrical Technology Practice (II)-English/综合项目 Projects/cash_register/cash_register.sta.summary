@@ -1,0 +1,149 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'lcd:LCD_dis|\lcd_clk:clk0'
+Slack : -429.215
+TNS   : -3799.949
+
+Type  : Slow 1200mV 85C Model Setup 'current_state.pay'
+Slack : -11.885
+TNS   : -80.359
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -9.233
+TNS   : -7290.244
+
+Type  : Slow 1200mV 85C Model Setup 'lcd:LCD_dis|scan_item[31]'
+Slack : -6.375
+TNS   : -26.955
+
+Type  : Slow 1200mV 85C Model Setup 'keyboard:key_board|pkey.ka'
+Slack : -3.339
+TNS   : -12.696
+
+Type  : Slow 1200mV 85C Model Setup 'current_state.scan_item_initial'
+Slack : -2.586
+TNS   : -11.798
+
+Type  : Slow 1200mV 85C Model Hold 'current_state.scan_item_initial'
+Slack : -5.573
+TNS   : -27.370
+
+Type  : Slow 1200mV 85C Model Hold 'current_state.pay'
+Slack : -2.133
+TNS   : -4.082
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : -1.522
+TNS   : -242.682
+
+Type  : Slow 1200mV 85C Model Hold 'lcd:LCD_dis|\lcd_clk:clk0'
+Slack : -1.049
+TNS   : -3.131
+
+Type  : Slow 1200mV 85C Model Hold 'keyboard:key_board|pkey.ka'
+Slack : 1.992
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'lcd:LCD_dis|scan_item[31]'
+Slack : 2.862
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'lcd:LCD_dis|\lcd_clk:clk0'
+Slack : -393.622
+TNS   : -3496.887
+
+Type  : Slow 1200mV 0C Model Setup 'current_state.pay'
+Slack : -11.343
+TNS   : -76.545
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -8.820
+TNS   : -6823.177
+
+Type  : Slow 1200mV 0C Model Setup 'lcd:LCD_dis|scan_item[31]'
+Slack : -5.733
+TNS   : -23.679
+
+Type  : Slow 1200mV 0C Model Setup 'keyboard:key_board|pkey.ka'
+Slack : -3.319
+TNS   : -12.603
+
+Type  : Slow 1200mV 0C Model Setup 'current_state.scan_item_initial'
+Slack : -2.690
+TNS   : -12.277
+
+Type  : Slow 1200mV 0C Model Hold 'current_state.scan_item_initial'
+Slack : -5.011
+TNS   : -24.544
+
+Type  : Slow 1200mV 0C Model Hold 'current_state.pay'
+Slack : -1.958
+TNS   : -3.879
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : -1.420
+TNS   : -243.150
+
+Type  : Slow 1200mV 0C Model Hold 'lcd:LCD_dis|\lcd_clk:clk0'
+Slack : -0.873
+TNS   : -2.442
+
+Type  : Slow 1200mV 0C Model Hold 'keyboard:key_board|pkey.ka'
+Slack : 2.097
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'lcd:LCD_dis|scan_item[31]'
+Slack : 2.473
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'lcd:LCD_dis|\lcd_clk:clk0'
+Slack : -187.250
+TNS   : -1639.714
+
+Type  : Fast 1200mV 0C Model Setup 'current_state.pay'
+Slack : -4.615
+TNS   : -31.428
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -3.536
+TNS   : -2475.610
+
+Type  : Fast 1200mV 0C Model Setup 'lcd:LCD_dis|scan_item[31]'
+Slack : -2.716
+TNS   : -11.532
+
+Type  : Fast 1200mV 0C Model Setup 'keyboard:key_board|pkey.ka'
+Slack : -1.027
+TNS   : -3.812
+
+Type  : Fast 1200mV 0C Model Setup 'current_state.scan_item_initial'
+Slack : -0.648
+TNS   : -2.778
+
+Type  : Fast 1200mV 0C Model Hold 'current_state.scan_item_initial'
+Slack : -2.752
+TNS   : -13.524
+
+Type  : Fast 1200mV 0C Model Hold 'current_state.pay'
+Slack : -1.042
+TNS   : -2.446
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : -0.797
+TNS   : -162.599
+
+Type  : Fast 1200mV 0C Model Hold 'lcd:LCD_dis|\lcd_clk:clk0'
+Slack : -0.616
+TNS   : -2.700
+
+Type  : Fast 1200mV 0C Model Hold 'keyboard:key_board|pkey.ka'
+Slack : 0.953
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'lcd:LCD_dis|scan_item[31]'
+Slack : 1.708
+TNS   : 0.000
+
+------------------------------------------------------------

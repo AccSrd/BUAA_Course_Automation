@@ -1,0 +1,43 @@
+
+State Machine - |cash_register|current_state
+Name current_state.pay current_state.setw current_state.set2 current_state.set1 current_state.set_price_scan current_state.set_price_initial current_state.scan_item_scan current_state.scan_item_initial 
+current_state.scan_item_initial 0 0 0 0 0 0 0 0 
+current_state.scan_item_scan 0 0 0 0 0 0 1 1 
+current_state.set_price_initial 0 0 0 0 0 1 0 1 
+current_state.set_price_scan 0 0 0 0 1 0 0 1 
+current_state.set1 0 0 0 1 0 0 0 1 
+current_state.set2 0 0 1 0 0 0 0 1 
+current_state.setw 0 1 0 0 0 0 0 1 
+current_state.pay 1 0 0 0 0 0 0 1 
+
+State Machine - |cash_register|lcd:LCD_dis|current_state
+Name current_state.stop current_state.write_data2 current_state.position_set2 current_state.write_data1 current_state.position_set1 current_state.function_set current_state.display_set current_state.entry_set current_state.clear_lcd 
+current_state.clear_lcd 0 0 0 0 0 0 0 0 0 
+current_state.entry_set 0 0 0 0 0 0 0 1 1 
+current_state.display_set 0 0 0 0 0 0 1 0 1 
+current_state.function_set 0 0 0 0 0 1 0 0 1 
+current_state.position_set1 0 0 0 0 1 0 0 0 1 
+current_state.write_data1 0 0 0 1 0 0 0 0 1 
+current_state.position_set2 0 0 1 0 0 0 0 0 1 
+current_state.write_data2 0 1 0 0 0 0 0 0 1 
+current_state.stop 1 0 0 0 0 0 0 0 1 
+
+State Machine - |cash_register|keyboard:key_board|pkey
+Name pkey.nul pkey.k0 pkey.k9 pkey.k8 pkey.k7 pkey.k6 pkey.k5 pkey.k4 pkey.k3 pkey.k2 pkey.k1 pkey.kf pkey.ke pkey.kd pkey.kc pkey.kb pkey.ka 
+pkey.ka 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+pkey.kb 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+pkey.kc 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+pkey.kd 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+pkey.ke 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+pkey.kf 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+pkey.k1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+pkey.k2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+pkey.k3 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+pkey.k4 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+pkey.k5 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+pkey.k6 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+pkey.k7 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+pkey.k8 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+pkey.k9 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+pkey.k0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+pkey.nul 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 

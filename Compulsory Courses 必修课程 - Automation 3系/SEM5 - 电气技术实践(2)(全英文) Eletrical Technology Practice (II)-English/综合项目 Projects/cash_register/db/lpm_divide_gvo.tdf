@@ -1,0 +1,42 @@
+--lpm_divide DEVICE_FAMILY="Cyclone III" LPM_DREPRESENTATION="SIGNED" LPM_NREPRESENTATION="SIGNED" LPM_REMAINDERPOSITIVE="FALSE" LPM_WIDTHD=5 LPM_WIDTHN=32 OPTIMIZE_FOR_SPEED=5 denom numer quotient CARRY_CHAIN="MANUAL" CARRY_CHAIN_LENGTH=48 IGNORE_CARRY_BUFFERS="OFF"
+--VERSION_BEGIN 9.0SP2 cbx_cycloneii 2008:05:19:10:57:37:SJ cbx_lpm_abs 2008:05:19:10:51:43:SJ cbx_lpm_add_sub 2009:05:07:10:25:28:SJ cbx_lpm_divide 2008:05:21:18:11:28:SJ cbx_mgl 2009:02:26:16:06:21:SJ cbx_stratix 2008:09:18:16:08:35:SJ cbx_stratixii 2008:11:14:16:08:42:SJ cbx_util_mgl 2008:11:21:14:58:47:SJ  VERSION_END
+
+
+-- Copyright (C) 1991-2009 Altera Corporation
+--  Your use of Altera Corporation's design tools, logic functions 
+--  and other software and tools, and its AMPP partner logic 
+--  functions, and any output files from any of the foregoing 
+--  (including device programming or simulation files), and any 
+--  associated documentation or information are expressly subject 
+--  to the terms and conditions of the Altera Program License 
+--  Subscription Agreement, Altera MegaCore Function License 
+--  Agreement, or other applicable license agreement, including, 
+--  without limitation, that your use is for the sole purpose of 
+--  programming logic devices manufactured by Altera and sold by 
+--  Altera or its authorized distributors.  Please refer to the 
+--  applicable agreement for further details.
+
+
+FUNCTION abs_divider_kbg (denominator[4..0], numerator[31..0])
+RETURNS ( quotient[31..0], remainder[4..0]);
+
+--synthesis_resources = lut 246 
+SUBDESIGN lpm_divide_gvo
+( 
+	denom[4..0]	:	input;
+	numer[31..0]	:	input;
+	quotient[31..0]	:	output;
+	remain[4..0]	:	output;
+) 
+VARIABLE 
+	divider : abs_divider_kbg;
+	numer_tmp[31..0]	: WIRE;
+
+BEGIN 
+	divider.denominator[] = denom[];
+	divider.numerator[] = numer_tmp[];
+	numer_tmp[] = numer[];
+	quotient[] = divider.quotient[];
+	remain[] = divider.remainder[];
+END;
+--VALID FILE
