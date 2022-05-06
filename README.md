@@ -1,10 +1,10 @@
-## 北京航空航天大学自动化专业课程资料 BUAA Course Material of Major in Automation
+# 北京航空航天大学自动化专业课程资料 BUAA Course Material of Major in Automation
 
-### 概述 Overview
+## 概述 Overview
 
 本项目旨在建立一个自动化专业的课程资料共享平台，现收录了本人北航四年的课程材料和复习资料。北航的学弟学妹们应该已经发现，**如果想要获得高分，往年资料的重要性绝不亚于认真学习**。而大家得到往年资料的途径一般只有系部分享，渠道较窄。因此，本项目仿照[6系同学的资料共享平台][57]，将我大学四年自动化专业及部分其它专业共59门课程的课程资料共享于此。个人选课有限，资料亦有遗失过时，如有想要贡献自己资料的同学，可以提交Pull Request或发邮件联系我。
 
-### 课程介绍 Course Introduction
+## 课程介绍 Course Introduction
 
 本项目课程主体内容如下(本人所修课程)：
 
@@ -23,7 +23,7 @@
 1. 大一学期所修为启明工科实验班所学课程。基础课按照更高难度要求(即数分、基物、高代)，且修了其他系的导论课程。
 2. 由于本人大三下外出交换，因此原本应大三下修的课程大四下补修。项目仓库中SEM6的课程资料是对应2019-2020学年春季学期的。而这个学期是疫情开始的首个学期，因此是第一次开设网课，与前后的课程结构可能都有较大的差别。
 
-### 免责声明 Disclaimer
+## 免责声明 Disclaimer
 
 假如文件内容包含侵权信息，请联系我删除相关文件。
 
@@ -33,7 +33,7 @@ This repository should only be used for reasonable academic discussions. I, the 
 
 If the content of the files contains infringing information, please contact me to delete the relevant files.
 
-### 课程列表
+## 课程列表
 
 | 课程名称 | Course Title | 学期 | 课程分类 | 课程编号 | 学分 | 课时 |
 | ------ | -------- | -------- | ------ | ------- | --- | --- |
