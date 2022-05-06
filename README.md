@@ -24,10 +24,10 @@ Including course project and final project.
 | [基础物理学(1)][13] | Fundamental Physics (I) | 2 | 必修 - 基础课程 - 数学与自然科学类 | A19A101A | 4.5 | 80 |
 | 机械工程技术训练B | Mechanical Technology Practice B | 2 | 必修 - 基础课程 - 工程基础类 | B1B322020 | 2 | 80 |
 | 英语读说写 | College English: Reading, Speaking and Writing | 2 | 必修 - 基础课程 - 语言类 | B1C12103B | 2 | 32 |
-| 批判阅读与写作 | English Critical Reading and Writing | 2 | 必修 - 基础课程 - 语言类 | B1C12102A | 2 | 32 |
+| [批判阅读与写作][56] | English Critical Reading and Writing | 2 | 必修 - 基础课程 - 语言类 | B1C12102A | 2 | 32 |
 | [思想政治理论课——纲要][14] | Outline of Modern China History | 2 | 必修 - 通识类课程 - 思政类 | B2D281020 | 2 | 32 |
 | [体育][9] | Physical Education | 2 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
-| 军事理论 | Military Theory | 2 | 必修 - 通识类课程 - 军理类 | B2D511010 | 2 | 32 |
+| [军事理论][55] | Military Theory | 2 | 必修 - 通识类课程 - 军理类 | B2D511010 | 2 | 32 |
 | [博雅课程(文化素质拓展)(2)][10] | Liberal Arts (II) | 2 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
 | [Product Design for Innovation][20] | Product Design for Innovation | 2.5 | 必修 - 通识课程 - 一般通识类 | 暑期学校全英文课程 | 2 | 32 |
 | [复变函数与积分变换][15] | Functions of Complex Variable and Integral Transforms | 3 | 必修 - 基础课程 - 数学与自然科学类 | B1A092060 | 2.5 | 40 |
@@ -37,10 +37,10 @@ Including course project and final project.
 | [电路][19] | Eletrical Circuits | 3 | 必修 - 基础课程 - 工程基础类 | / | 4 | 64 |
 | [诗歌与中国文化][21] | Poetry and Chinese Culture | 3 | 必修 - 通识类课程 - 核心通识类 | / | 2 | 32 |
 | [思想政治理论课——概论][22] | History of Modern Thinking | 3 | 必修 - 通识类课程 - 思政类 | B2D282010 | 2 | 32 |
-| [体育——羽毛球][9] | Physical Education | 3 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
+| [体育][9] | Physical Education | 3 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
 | [博雅课程(文化素质拓展)(3)][10] | Liberal Arts (III) | 3 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
 | [概率统计A][23] | Probability and Statistics A | 4 | 必修 - 基础课程 - 数学与自然科学类 | B1A09204A | 3 | 48 |
-| [基础物理实验B(2)][24] | Fundamental Physics Experiments B(II) | 4 | 必修 - 基础课程 - 数学与自然科学类 | B1A19204B | 1.5 | 24 |
+| [基础物理实验B(2)][17] | Fundamental Physics Experiments B(II) | 4 | 必修 - 基础课程 - 数学与自然科学类 | B1A19204B | 1.5 | 24 |
 | [模拟电子技术基础][25] | Fundamentals of Analog Electronics | 4 | 必修 - 基础课程 - 工程基础类 | / | 4 | 64 |
 | [数字电子技术基础][26] | Fundamentals of Digital Electronics | 4 | 必修 - 基础课程 - 工程基础类 | / | 3 | 48 |
 | [电气技术实践(1)(全英文)][27] | Eletrical Technology Practice (I)-English | 4 | 必修 - 基础课程 - 工程基础类 | / | 2 | 36 |
@@ -108,13 +108,63 @@ Including course project and final project.
 
 [10]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEMX%20-%20%E5%8D%9A%E9%9B%85%E8%AF%BE%E7%A8%8B%20Liberal%20Arts
 
+[11]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM2%20-%20%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90(2)%20Mathematical%20Analysis%20for%20Engineering%20(II)
+
+[12]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM2%20-%20%E5%B7%A5%E7%A7%91%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%20Advanced%20Algebra%20for%20Engineering
+
+[13]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM2%20-%20%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AD%A6(1)%20Fundamental%20Physics%20(I)
+
+[14]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM2%20-%20%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E8%AF%BE%E2%80%94%E2%80%94%E7%BA%B2%E8%A6%81%20Outline%20of%20Modern%20China%20History
+
+[15]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM3%20-%20%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%20Functions%20of%20Complex%20Variable%20and%20Integral%20Transforms
+
+[16]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM3%20-%20%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86(2)(%E5%85%A8%E8%8B%B1%E6%96%87)%20University%20Physics%20for%20Engineering%20(II)-English
+
+[17]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM3%2B4%20-%20%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8CB%20Fundamental%20Physics%20Experiments%20B
+
+[18]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM3%20-%20%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%20Theoretical%20Mechanics
+
+[19]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM3%20-%20%E7%94%B5%E8%B7%AF%20Eletrical%20Circuits
+
+[20]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM2.5%20-%20Product%20Design%20for%20Innovation
+
+[21]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Selected%20Courses%20%E9%80%89%E4%BF%AE%E8%AF%BE%E7%A8%8B/SEM3%20-%20%E8%AF%97%E6%AD%8C%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%20Poetry%20and%20Chinese%20Culture
+
+[22]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM3%20-%20%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E8%AF%BE%E2%80%94%E2%80%94%E6%A6%82%E8%AE%BA%20History%20of%20Modern%20Thinking
+
+[23]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM4%20-%20%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1A%20Probability%20and%20Statistics%20A
+
+[25]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM4%20-%20%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%20Fundamentals%20of%20Analog%20Electronics
+
+[26]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM4%20-%20%E6%95%B0%E5%AD%97%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%20Fundamentals%20of%20Digital%20Electronics
+
+[27]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM4%20-%20%E7%94%B5%E6%B0%94%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5(1)(%E5%85%A8%E8%8B%B1%E6%96%87)%20Eletrical%20Technology%20Practice%20(I)-English
+
+[28]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM4%20-%20%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6B%20Mechanics%20of%20Materials%20B
+
+[29]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM4%20-%20%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E8%AF%BE%E2%80%94%E2%80%94%E5%8E%9F%E7%90%86%20Marxism%20Basic%20Principle
+
+[30]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM5%20-%20%E7%94%B5%E6%B0%94%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5(2)(%E5%85%A8%E8%8B%B1%E6%96%87)%20Eletrical%20Technology%20Practice%20(II)-English
+
 [31]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM5%20-%20%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80B(2)%20Fundamental%20of%20Mechanical%20Design%20B(II)
 
 [32]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM5%20-%20%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E5%8F%8A%E6%8E%A5%E5%8F%A3%E6%8A%80%E6%9C%AF%20Principles%20of%20Microprocessor%20and%20Interface%20Technology
 
 [33]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM5%20-%20%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%20Automatic%20Control%20Theory
 
+[34]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM5%20-%20%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8CA(1)%20Principle%20of%20Automatic%20Control%20Experiment%20A%20(I)
+
 [35]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM5%20-%20%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%85%83%E4%BB%B6%20Automatic%20Control%20Components
+
+[36]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM5%20-%20%E7%94%B5%E5%8A%9B%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AFB%20Power%20Electronic%20Technology%20B
+
+[37]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM5%20-%20%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%85%83%E4%BB%B6%E4%B8%8E%E7%94%B5%E5%8A%9B%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C%20Automatic%20Control%20Components%20and%20Power%20Electronic%20Technology%20Experiment
+
+[38]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM5%20-%20%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E5%8F%8A%E6%8E%A5%E5%8F%A3%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C%20Experimental%20Course%20of%20Computer%20Principle%20and%20Its%20Interface%20Technology
+
+[39]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Selected%20Courses%20%E9%80%89%E4%BF%AE%E8%AF%BE%E7%A8%8B/SEM5%20-%20%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E%E6%8A%80%E6%9C%AF%20Virtual%20Reality%20Technology
+
+[40]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Selected%20Courses%20%E9%80%89%E4%BF%AE%E8%AF%BE%E7%A8%8B/SEM5%20-%20%E5%BA%94%E7%94%A8%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%20Applied%20Discrete%20Mathematics
 
 [41]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM6%20-%20%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%20Digital%20Signal%20Processing
 
@@ -128,8 +178,19 @@ Including course project and final project.
 
 [46]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM6%20-%20%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB%E4%B8%8E%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F%E6%8A%80%E6%9C%AF%20Technology%20of%20Pattern%20Recognition%20and%20Intelligent%20Systems
 
+[47]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM7%20-%20%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%E4%B8%8E%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C1%20Curriculum%20Design%20and%20Comprehensive%20Experiment%20I
+
+[48]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM7%20-%20%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB%E4%B8%8E%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%AE%9E%E9%AA%8C%20Pattern%20Recognition%20and%20Motion%20Control%20System%20Experiment
+
+[49]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM7%20-%20%E7%BB%8F%E6%B5%8E%E7%AE%A1%E7%90%86%20Economics%20and%20Management
+
+[50]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Selected%20Courses%20%E9%80%89%E4%BF%AE%E8%AF%BE%E7%A8%8B/SEM7%20-%20%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E6%B3%95%20Aeronautics%20and%20Astronautics%20Law
+
 [54]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM6%20-%20%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1%E8%AE%AD%E7%BB%83%20Electronic%20Circuits%20Design%20Training
 
+[55]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM2%20-%20%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA%20Military%20Theory
+
+[56]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM2%20-%20%E6%89%B9%E5%88%A4%E9%98%85%E8%AF%BB%E4%B8%8E%E5%86%99%E4%BD%9C%20English%20Critical%20Reading%20and%20Writing
 
 
 
