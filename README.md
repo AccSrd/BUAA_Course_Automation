@@ -1,13 +1,39 @@
-# 北京航空航天大学——自动化专业——课程资料
-# BUAA Course Material of Major in Automation
+## 北京航空航天大学自动化专业课程资料 BUAA Course Material of Major in Automation
 
-## 介绍
-## Introduction
+### 概述 Overview
 
+本项目旨在建立一个自动化专业的课程资料共享平台，现收录了本人北航四年的课程材料和复习资料。北航的学弟学妹们应该已经发现，**如果想要获得高分，往年资料的重要性绝不亚于认真学习**。而大家得到往年资料的途径一般只有系部分享，渠道较窄。因此，本项目仿照[6系同学的资料共享平台][57]，将我大学四年自动化专业及部分其它专业共59门课程的课程资料共享于此。个人选课有限，资料亦有遗失过时，如有想要贡献自己资料的同学，可以提交Pull Request或发邮件联系我。
 
+### 课程介绍 Course Introduction
 
-Codes created when I was in Beihang University.
-Including course project and final project.
+本项目课程主体内容如下(本人所修课程)：
+
+| 年级 | 学年 | 专业 |
+| ------ | -------- | ------ | 
+| 大一上 | 2016-2017学年秋季学期(SEM1) | 启明工科实验班(71系) |
+| 大一下 | 2016-2017学年春季学期(SEM2) | 启明工科实验班(71系) |
+| 大二上 | 2017-2018学年秋季学期(SEM3) | 自动化(3系) |
+| 大二下 | 2017-2018学年春季学期(SEM4) | 自动化(3系) |
+| 大三上 | 2018-2019学年秋季学期(SEM5) | 自动化(3系) |
+| 大三下 | / | 都灵理工大学交换 |
+| 大四上 | 2019-2020学年秋季学期(SEM7) | 自动化(3系) - 模识双控 |
+| 大四下 | 2019-2020学年春季学期(SEM6) | 自动化(3系) - 模识双控 (网课) |
+
+需要注意的有两点：
+1. 大一学期所修为启明工科实验班所学课程。基础课按照更高难度要求(即数分、基物、高代)，且修了其他系的导论课程。
+2. 由于本人大三下外出交换，因此原本应大三下修的课程大四下补修。项目仓库中SEM6的课程资料是对应2019-2020学年春季学期的。而这个学期是疫情开始的首个学期，因此是第一次开设网课，与前后的课程结构可能都有较大的差别。
+
+### 免责声明 Disclaimer
+
+假如文件内容包含侵权信息，请联系我删除相关文件。
+
+The content in this repository should exclusively be utilized in sharing solutions for projects, communicating ideas for related problems, and references to similar assignments. If you are a student facing an assignment with the same or similar topics, you can use this repository as a reference, while the final report should include the citations of the repository. If you submit an assignment without proper acknowledgment after referring to this repository, you may be considered **PLAGIARISM** by your instructor, and the author will not pay ANY responsibility for this. Please refer to your teacher's and your school's instructions for the determination of academic integrity.
+
+This repository should only be used for reasonable academic discussions. I, the owner of this repository, never and will never ALLOWING another student to copy this assignment as their own. In such circumstances, I do not violate BUAA's statement on academic integrity as of the time this repository is open. I am not responsible for any future plagiarism using the content of this repository.
+
+If the content of the files contains infringing information, please contact me to delete the relevant files.
+
+### 课程列表
 
 | 课程名称 | Course Title | 学期 | 课程分类 | 课程编号 | 学分 | 课时 |
 | ------ | -------- | -------- | ------ | ------- | --- | --- |
@@ -206,7 +232,7 @@ Including course project and final project.
 
 [56]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM2%20-%20%E6%89%B9%E5%88%A4%E9%98%85%E8%AF%BB%E4%B8%8E%E5%86%99%E4%BD%9C%20English%20Critical%20Reading%20and%20Writing
 
-
+[57]: https://github.com/TheBloodthirster/BUAA_Course_Sharing
 
 
 
