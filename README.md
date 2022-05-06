@@ -14,7 +14,7 @@ Including course project and final project.
 | [航空航天概论A][5] | Introduction to Aeronautics and Astronautics A | 1 | 必修 - 通识类课程 - 核心通识类 | B2F050110 | 2 | 32 |
 | [思想政治理论课——基础][6] | Moral Principles and Legal Basis | 1 | 必修 - 通识类课程 - 思政类 | B2D281010 | 2 | 32 |
 | [电子信息工程导论][7] | Introduction to Electronic Information Engineering | 1 | / | B1B021110 | 1 | 16 |
-| 控制科学与工程学科综合课 | Control Science and Engineering Interdisciplinary Lesson | 1 | 必修 - 专业课程 - 一般专业类 | B3J031000 | 1 | 20 |
+| [控制科学与工程学科综合课][24] | Control Science and Engineering Interdisciplinary Lesson | 1 | 必修 - 专业课程 - 一般专业类 | B3J031000 | 1 | 20 |
 | [隐身漫谈][8] | Stealth Technology Introduction | 1 | 必修 - 通识类课程 - 核心通识类 | 新生研修课 | 1 | 16 |
 | [体育][9] | Physical Education | 1 | 必修 - 通识类课程 - 体育类 | / | 0.5 | 16 |
 | 军事训练 | Military Training | 1 | 必修 - 通识类课程 - 军理类 | B2D511020 | 0 | 112 |
@@ -67,8 +67,8 @@ Including course project and final project.
 | [博雅课程(文化素质拓展)(5)][10] | Liberal Arts (V) | 5 | 必修 - 通识类课程 - 博雅类 | / | 0.5 | 32 |
 | 生产实习 | Practice in Production | 6 | 必修 - 专业课程 - 核心专业类 | B3I033000 | 3 | 120 |
 | [电子电路设计训练][54] | Electronic Circuits Design Training | 6 | 必修 - 专业课程 - 核心专业类 | / | 2 | 80 |
-| 自动控制原理A(2) | Principle of Automatic Control A (II) | 6 | 必修 - 专业课程 - 核心专业类 | B3I03312A | 2 | 32 |
-| 自动控制原理实验A(2) | Principle of Automatic Control Experiment A (II) | 6 | 必修 - 专业课程 - 核心专业类  | B3I03314A | 0.5 | 8 |
+| [自动控制原理A(2)][33] | Principle of Automatic Control A (II) | 6 | 必修 - 专业课程 - 核心专业类 | B3I03312A | 2 | 32 |
+| [自动控制原理实验A(2)][34] | Principle of Automatic Control Experiment A (II) | 6 | 必修 - 专业课程 - 核心专业类  | B3I03314A | 0.5 | 8 |
 | [数字信号处理][41] | Digital Signal Processing | 6 | 必修 - 专业课程 - 核心专业类 | B3I033150 | 2.5 | 40 |
 | [数字信号处理实验][42] | Digital Signal Processing Experiments | 6 | 必修 - 专业课程 - 核心专业类 | B3I033160 | 1 | 16 |
 | [计算机控制系统][43] | Computer Control System | 6 | 必修 - 专业课程 - 核心专业类 | B3I033170 | 2 | 32 |
@@ -134,6 +134,8 @@ Including course project and final project.
 
 [23]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM4%20-%20%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1A%20Probability%20and%20Statistics%20A
 
+[24]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM1%20-%20%E6%8E%A7%E5%88%B6%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AD%A6%E7%A7%91%E7%BB%BC%E5%90%88%E8%AF%BE%20Control%20Science%20and%20Engineering%20Interdisciplinary%20Lesson
+
 [25]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM4%20-%20%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%20Fundamentals%20of%20Analog%20Electronics
 
 [26]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM4%20-%20%E6%95%B0%E5%AD%97%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%20Fundamentals%20of%20Digital%20Electronics
@@ -185,6 +187,12 @@ Including course project and final project.
 [49]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM7%20-%20%E7%BB%8F%E6%B5%8E%E7%AE%A1%E7%90%86%20Economics%20and%20Management
 
 [50]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Selected%20Courses%20%E9%80%89%E4%BF%AE%E8%AF%BE%E7%A8%8B/SEM7%20-%20%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E6%B3%95%20Aeronautics%20and%20Astronautics%20Law
+
+[51]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Selected%20Courses%20%E9%80%89%E4%BF%AE%E8%AF%BE%E7%A8%8B/SEM7%20-%20%E7%B2%BE%E7%AE%97%E6%95%B0%E5%AD%A6%20Actuarial%20Mathematics
+
+[52]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Selected%20Courses%20%E9%80%89%E4%BF%AE%E8%AF%BE%E7%A8%8B/SEM7%20-%20%E9%87%91%E8%9E%8D%E6%95%B0%E5%AD%A6%20Financial%20Mathematics
+
+[53]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM8%20-%20%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%20Graduation%20Design%20(Thesis)
 
 [54]: https://github.com/AccSrd/BUAA_Course_Automation/tree/main/Compulsory%20Courses%20%E5%BF%85%E4%BF%AE%E8%AF%BE%E7%A8%8B%20-%20Automation%203%E7%B3%BB/SEM6%20-%20%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1%E8%AE%AD%E7%BB%83%20Electronic%20Circuits%20Design%20Training
 
