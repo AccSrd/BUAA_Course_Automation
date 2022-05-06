@@ -1,0 +1,15 @@
+s=tf('s');
+l=1.86;
+k=0.005;
+c=3750;
+N=60;
+R=0.246;
+C=l/(1+s/k)
+q=c^2*exp(-s*R)/2*N;
+p=(s+(2*N)/(R^2*C))*(s+1/R);
+G=q/p;
+L=minreal(C*G);
+T=L/(1+L);
+T.inputdelay=R;
+SYSX=zpk(pade(T,1))
+bodemag(SYSX)
